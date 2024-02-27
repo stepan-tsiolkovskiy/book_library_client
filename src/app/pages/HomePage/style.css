@@ -1,0 +1,32 @@
+.main-photo {
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #F5F5F5;
+  height: 100%;
+}
+
+.main-content {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.content-section {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.homepage-title {
+  font-size: 84px;
+  text-align: center;
+}
+
+.homepage-description {
+}
